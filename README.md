@@ -1,3 +1,6 @@
+## Developed by : PAVITHRAN S
+## Register Number : 212223240113
+
 # Linux-Process-API-fork-wait-exec-
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
@@ -22,11 +25,6 @@ Write the C Program using Linux Process API - fork(), wait(), exec()
 Test the C Program for the desired output. 
 
 # PROGRAM:
-
-Developed by : PAVITHRAN S
-
-Register Number : 212223240113
-
 ## C Program to print process ID and parent Process ID using Linux API system calls
 ~~~
 #include <stdio.h>
